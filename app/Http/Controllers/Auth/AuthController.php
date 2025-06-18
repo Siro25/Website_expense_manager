@@ -63,7 +63,6 @@ class AuthController extends Controller
         }
 
         Auth::login($user);
-
         return redirect()->route('dashboard')->with('success', 'Đăng ký thành công');
     }
 
