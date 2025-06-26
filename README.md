@@ -313,5 +313,7 @@
 📧 Email: si9x992005@gmail.com
 
 ---
+Link Demo: https://youtu.be/Xlq8AyDt9Qw?si=qRzV6y_i9IHMGVXT
+Link repo: https://github.com/Siro25/Website_expense_manager.git
 
 
