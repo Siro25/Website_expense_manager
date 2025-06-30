@@ -80,15 +80,11 @@
 ![image](https://github.com/user-attachments/assets/3093263d-61aa-4a0f-98bb-3b85323f25b1)
 
 
-```
+
 ### Database
 
-
-
-```
 ![image](https://github.com/user-attachments/assets/bbb361a2-2dc2-46f5-a1d3-7605760666fa)
 
-```
 ---
 
 ## 📱 Các đối tượng chính trong ứng dụng
