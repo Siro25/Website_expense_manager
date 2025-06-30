@@ -76,7 +76,7 @@
 +-------------------+
 ```
 ### Sơ đồ tuần tự
-```
+
 ![image](https://github.com/user-attachments/assets/3093263d-61aa-4a0f-98bb-3b85323f25b1)
 
 
