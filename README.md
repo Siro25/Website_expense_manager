@@ -215,14 +215,6 @@
    DB_USERNAME=root
    DB_PASSWORD=
 
-   Đối với Railway(nên dùng)
-   DB_CONNECTION=mysql
-   DB_HOST=turntable.proxy.rlwy.net
-   DB_PORT=22641
-   DB_DATABASE=railway
-   DB_USERNAME=root
-   DB_PASSWORD=sbXBOVQdBcnzjswOmfgTAAGoTZmnuMWj
-   ```
 
 4. **Chạy migration và seeder**
    ```bash
